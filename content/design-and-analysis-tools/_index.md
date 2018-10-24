@@ -16,9 +16,9 @@ trial specifications and return visualizations, a table of the trial
 design parameters, and R code to reproduce the design.
 
 - Continuous Outcomes
-    - [Power](../selection-effect-power)
-    - [Sample Size](../sample-size)
-    - [Effect Size Calculator](../effect-size)
+    - [Power](https://kaneplusplus.shinyapps.io/power-determination/)
+    - [Sample Size](https://kaneplusplus.shinyapps.io/sample-size/)
+    - [Effect Size Calculator](https://kaneplusplus.shinyapps.io/effect-size/)
 
 
 ## R-Package
