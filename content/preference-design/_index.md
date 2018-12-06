@@ -19,27 +19,27 @@ Suppose an investigator is interested in conducting a clinical trial to assess t
 
 In order to design a two-stage clinical trial, you will need to answer a few important questions:
 
-1.  What is the most important effect of interest?  Is it the treatment effect, the preference effect or the selection effect?
+**What is the most important effect of interest?  Is it the treatment effect, the preference effect or the selection effect?**
 
 <div style="margin-left: 2em;">
 Most often we are going to be interested in either the treatment effect or the preference effect.  However, it is possible to design the study for any or all of these effects.  In our example, since prior literature showed that freedom from low back pain was not significantly different between the two groups, we are focused on being able to detect a preference effect and thus will design our study with this as the primary effect of interest.
 </div>
 
-2.  What is the preference for one treatment over the other?
+**What is the preference for one treatment over the other?**
 
 <div style="margin-left: 2em;">
 In order to determine the preference for one treatment over another we do any of the following: rely on prior published literature; conduct a small pilot study and ask participants their preferences for one treatment over another; or make an educated guess based on clinical experience.  According to literature from a clinical trial of medical treatment versus surgical treatment for lower back pain [REF], 26% randomized to medical treatment eventually had surgery.  Therefore, we will use this information to estimate the preference for surgery to be 75% compared to 25% for medical intervention.
 </div>
 
-3.  What difference (effect size) do we want to be able to detect between the two groups?
+**What difference (effect size) do we want to be able to detect between the two groups?**
 
 <div style="margin-left: 2em;">
 Ideally, we would want to determine a meaningful difference based on the scale of interest.  For example, a one point change on the pain scale may be meaningful and therefore, we would use that to help determine sample size for our study.  In order to determine the appropriate effect size, we can use the effect size calculate (see below), and we would need to know 4 estimates: (1) the mean pain score for the surgical intervention in the random arm; (2) the mean pain score for the medical intervention in the random arm; (3) the mean pain score for the surgical intervention in the choice arm; and (4) the mean pain score for the medical intervention in the choice arm. With this information, and the preference rate for one treatment over another, we can calculate the effect size.
 
-However, if we are unsure about the effect size, we can always determine sample size based on standardized effect sizes.  In this case, we could use standards set out by XX [REF] for what is considered small, medium and large effects.
+However, if we are unsure about the effect size, we can always determine sample size based on standardized effect sizes.  In this case, we could use standards set out by <a href="https://www.sciencedirect.com/book/9780121790608/statistical-power-analysis-for-the-behavioral-sciences" target="_blank">(Cohen 1988)</a> for what is considered small, medium and large effects.
 </div>
 
-4.  What is the variability in our groups?
+**What is the variability in our groups?**
 
 <div style="margin-left: 2em;">
 In addition to knowing the effect size, we need to know something about the variability of the effect size.  Therefore, it is important to know how much variability we expect in our measure of pain score, and whether or not we expect this to be the same in the two treatment groups.
