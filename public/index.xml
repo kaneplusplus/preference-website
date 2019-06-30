@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minimal Academic</title>
+    <title>Yale-PCORI Patient Preference</title>
     <link>/</link>
-    <description>Recent content on Minimal Academic</description>
+    <description>Recent content on Yale-PCORI Patient Preference</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Joshua Hu 2018</copyright>
+    <copyright>&amp;copy; Yale University</copyright>
     <lastBuildDate>Thu, 26 Jul 2018 17:44:36 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>This is a blog post</title>
+      <title>Introduction</title>
       <link>/blog/first/</link>
       <pubDate>Tue, 24 Jul 2018 17:44:36 -0700</pubDate>
       

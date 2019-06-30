@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/more/</loc>
     <lastmod>2018-07-26T17:44:36-07:00</lastmod>
   </url>
@@ -18,37 +28,14 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
   </url>
   
   <url>
@@ -64,15 +51,45 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/design-and-analysis-tools/</loc>
+  </url>
+  
+  <url>
+    <loc>/preference-design/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/stratified-design/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
   </url>
   
 </urlset>

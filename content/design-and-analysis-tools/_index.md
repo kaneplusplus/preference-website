@@ -20,6 +20,10 @@ design parameters, and R code to reproduce the design.
     - [Sample Size](https://kaneplusplus.shinyapps.io/sample-size/)
     - [Effect Size Calculator](https://kaneplusplus.shinyapps.io/effect-size/)
 
+- Binomial Outcomes
+    - [Power](https://kaneplusplus.shinyapps.io/binomial-power/)
+    - [Sample Size](https://kaneplusplus.shinyapps.io/binomial-sample-size/)
+
 
 ## R-Package
 
