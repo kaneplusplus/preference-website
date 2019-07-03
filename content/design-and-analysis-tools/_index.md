@@ -24,6 +24,10 @@ design parameters, and R code to reproduce the design.
     - [Power](https://kaneplusplus.shinyapps.io/binomial-power/)
     - [Sample Size](https://kaneplusplus.shinyapps.io/binomial-sample-size/)
 
+- Count Outcomes
+    - [Power](https://kaneplusplus.shinyapps.io/poisson-power/)
+    - [Sample Size](https://kaneplusplus.shinyapps.io/poisson-sample-size/)
+
 
 ## R-Package
 
